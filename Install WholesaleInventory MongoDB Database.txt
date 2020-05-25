@@ -1,0 +1,6 @@
+Extract the rar in the Downloads folder and run the following command in command prompt.
+The second path is the path to the extracted folder. The first path is the installation directory. Modify accordingly.
+
+Use command:
+
+"C:\Programs\MongoDB\Server\4.0\bin\mongorestore.exe" --db WholesaleInventory C:\Users\Abhilash\Downloads\Wholesale\WholesaleInventory
